@@ -9,6 +9,7 @@ The program performs the following tasks:
 - Based on user input, extracts the factors for the requested risks from the CSV files. It then arranges the past and current factors side by side and organizes them by carriers.
 - Performs a comparison of the factors to identify which ones have changed and which ones remain unchanged. For the factors that have changed, the program calculates the percentage increase or decrease.
 - Outputs the comparison results into an Excel workbook, with each requested risk having its own sheet.
+
 In summary, the program automates the retrieval, extraction, comparison, and output of rating factors for requested risks, allowing for easy analysis and identification of changes in factors between previous and current quarters.
 
 Notes: 
