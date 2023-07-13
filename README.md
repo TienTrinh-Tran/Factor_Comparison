@@ -12,5 +12,3 @@ The program performs the following tasks:
 
 In summary, the program automates the retrieval, extraction, comparison, and output of rating factors for requested risks, allowing for easy analysis and identification of changes in factors between previous and current quarters.
 
-Notes: 
-I have chosen to create separate scripts for Auto and Home, even though the majority of the code is the same. This decision was made to simplify maintenance and enhancement efforts. The requirements for these two lines of business can differ significantly in various aspects. Moreover, having separate scripts improves readability and comprehension for team members who may not have much experience with the Python programming language.
